@@ -1,6 +1,6 @@
 public class Leuchte
 {
-
+    //Attrib    
     private String farbe;
 
     public Leuchte()
