@@ -1,6 +1,6 @@
 public class Ampel
 {
-
+    //Attribute
     private int phase;
     private Leuchte rtLicht;
     private Leuchte gbLicht;
